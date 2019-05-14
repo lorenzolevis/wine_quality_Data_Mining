@@ -54,3 +54,6 @@ As shown, the number of classes is high and is not good for classification probl
 - 7, 8, 9 mapped with 3
 
 The comparison of these **three or four** algorithm helps to detect which ones is the best on this kind of problems
+
+P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. 
+Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
